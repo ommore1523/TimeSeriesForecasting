@@ -27,3 +27,15 @@
 
   - a data which not stores autocoreelation is called as white noise 
   - Autocorealtion is a correlation  within itself. ie. correlation between previous time period and itself. 
+
+
+
+
+
+
+
+
+
+
+
+Reference : https://weather.com/en-IN/india/science/news/2018-10-30-why-do-pollution-levels-skyrocket-during-winter
